@@ -3,7 +3,7 @@ Blolkabout - Take a hike
 
 ## Why is this empty?
 
-This is using the [Streamr Core app](https://streamr.network/core)
+This is built in part using the [Streamr Core app](https://streamr.network/core)
 
 I was getting some errors deploying my Product / Data Union
 
